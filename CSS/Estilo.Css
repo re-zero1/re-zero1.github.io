@@ -1,0 +1,12 @@
+/*estilo.css*/
+h1{/*Titulo*/
+font-family: 'Abril Fatface', cursive;
+}
+/*Subtitulo*/
+h2, h3, h4, h5, h6{
+font-family: 'Anton', sans-serif;
+}
+/*Texto*/
+body{
+font-family: 'PT Sans', sans-serif;
+}
