@@ -25,8 +25,12 @@ a{color:#E3AE57}
 background-repeat: no-repeat; overflow: hidden;
 text-indent: 7000px; display: incline-block;}
 
-.linkedin{background-image: url('*../Img/linkedin.png')}
+.linkedin{background-image: url('*../Img/linkedin.png');
+-webkit-filter: grayscale(100%); filter: grayscale(100%);}
+.linkedin:hover{-webkit-filter: grayscale(0%); filter: grayscale(0%);}
 .gituhub{background-image: url('*../Img/github.png')}
+
 .facebook{background-image: url('*../Img/Facebook.png')}
+
 .devcard{background-image: url('*../Img/Devcard.png')}
 
