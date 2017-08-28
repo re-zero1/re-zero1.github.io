@@ -12,14 +12,14 @@ margin-bottom: 15px;
 }
 /*Texto*/
 body{
-font-family: 'PT Sans', sans-serif; background-color: #232B2B
+font-family: 'PT Sans', sans-serif; background-color: #232B2B;
 color: #ffffff; text-align: center;
 }
 .corpo{
 	width: 960px; margin: auto;
 }
 a{color:#E3AE57}
-.redes-sociais li{display: incline-block; margin: 0 5px}
+.redes-sociais li{display: incline-block; margin: 0 5px;}
 .redes-sociais li a{display: incline-block;}
 .redes-sociais li span{width: 48px; height: 48px;
 background-repeat: no-repeat; overflow: hidden;
